@@ -1,3 +1,14 @@
+- 👋 Hi, I’m @AfraidofTime
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning C language,and i'm going to known about PYthon.
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+AfraidofTime/AfraidofTime is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
 # Learning
 Learning C language together
 # ==C Language==
